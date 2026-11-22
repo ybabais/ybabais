@@ -20,7 +20,8 @@ HTML/CSS · Visual Basic · SQLite · Apache · Git · architecture MVC · progr
 ## 📂 Projets
 
 - **laravel-db-setup** : script Shell qui crée automatiquement la base MySQL et l'utilisateur d'un projet Laravel, puis met à jour son `.env`.
-- Applications web PHP (MVC) et desktop C# / VB : à venir sur ce profil.
+- **Application mobile (Dart) et API PHP en architecture MVC** : projet en cours de développement (base MySQL / MariaDB). Le code sera publié sur ce profil.
+- **seven-mockup** : maquettes interactives (7Travel, 7Activity, 7Check) du projet BTS SIO SLAM.
 
 ## 📫 Me contacter
 
